@@ -1,0 +1,301 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Cau4_1",
+            "request": "launch",
+            "mainClass": "ON_THI_CK.Cau4_1",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Cau2",
+            "request": "launch",
+            "mainClass": "ON_THI_CK.Cau2",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Cau4",
+            "request": "launch",
+            "mainClass": "ON_THI_CK.Cau4",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Cau1",
+            "request": "launch",
+            "mainClass": "ON_THI_CK.Cau1",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Hoadonkhachsan",
+            "request": "launch",
+            "mainClass": "Hoadonkhachsan",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Bangtinhgiochuan",
+            "request": "launch",
+            "mainClass": "Bangtinhgiochuan",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Quanlibtn",
+            "request": "launch",
+            "mainClass": "Quanlibtn",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Bangtinhgio",
+            "request": "launch",
+            "mainClass": "Bangtinhgio",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDX",
+            "request": "launch",
+            "mainClass": "ArrayDX",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "BCUC",
+            "request": "launch",
+            "mainClass": "BCUC",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Bai2",
+            "request": "launch",
+            "mainClass": "Bai2",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Catdoi",
+            "request": "launch",
+            "mainClass": "Catdoi",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Checkfibo",
+            "request": "launch",
+            "mainClass": "Checkfibo",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Chia2",
+            "request": "launch",
+            "mainClass": "Chia2",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Hcn",
+            "request": "launch",
+            "mainClass": "Hcn",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Helloworld",
+            "request": "launch",
+            "mainClass": "Helloworld",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Hieuso",
+            "request": "launch",
+            "mainClass": "Hieuso",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Hocphi",
+            "request": "launch",
+            "mainClass": "Hocphi",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Hop",
+            "request": "launch",
+            "mainClass": "Hop",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Hoten1",
+            "request": "launch",
+            "mainClass": "Hoten1",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Khacxau",
+            "request": "launch",
+            "mainClass": "Khacxau",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Lopthisinh",
+            "request": "launch",
+            "mainClass": "Lopthisinh",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Phanso",
+            "request": "launch",
+            "mainClass": "Phanso",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Ptbn",
+            "request": "launch",
+            "mainClass": "Ptbn",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Scp",
+            "request": "launch",
+            "mainClass": "Scp",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Shinhtron",
+            "request": "launch",
+            "mainClass": "Shinhtron",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Shopping",
+            "request": "launch",
+            "mainClass": "Shopping",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Snt",
+            "request": "launch",
+            "mainClass": "Snt",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Solienke",
+            "request": "launch",
+            "mainClass": "Solienke",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Souuthe",
+            "request": "launch",
+            "mainClass": "Souuthe",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "SumN",
+            "request": "launch",
+            "mainClass": "SumN",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "TongGT",
+            "request": "launch",
+            "mainClass": "TongGT",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Uocnt",
+            "request": "launch",
+            "mainClass": "Uocnt",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "Xaudx",
+            "request": "launch",
+            "mainClass": "Xaudx",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "check",
+            "request": "launch",
+            "mainClass": "check",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "chiahet",
+            "request": "launch",
+            "mainClass": "chiahet",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "numbeauty",
+            "request": "launch",
+            "mainClass": "numbeauty",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "numbeauty2",
+            "request": "launch",
+            "mainClass": "numbeauty2",
+            "projectName": "OOP_77516d57"
+        },
+        {
+            "type": "java",
+            "name": "unsolienke",
+            "request": "launch",
+            "mainClass": "unsolienke",
+            "projectName": "OOP_77516d57"
+        }
+    ]
+}
